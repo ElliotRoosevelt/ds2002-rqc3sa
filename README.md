@@ -1,2 +1,2 @@
 # ds2002-rqc3sa
-my repo for ds2002-spring 2025
+My repo for ds2002-Spring 2025
